@@ -1,0 +1,1 @@
+In this project we are making a campus attendance system that will help students and teachers both to get marked quickly and without pen-paper.
